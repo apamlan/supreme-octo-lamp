@@ -1,0 +1,1120 @@
+[2023-09-05 08:00:25,996] {processor.py:153} INFO - Started process (PID=34) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:00:26,002] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:00:26,003] {logging_mixin.py:115} INFO - [2023-09-05 08:00:26,003] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:00:26,049] {logging_mixin.py:115} INFO - [2023-09-05 08:00:26,047] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:00:26,050] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:00:26,099] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.114 seconds
+[2023-09-05 08:00:57,093] {processor.py:153} INFO - Started process (PID=98) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:00:57,095] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:00:57,096] {logging_mixin.py:115} INFO - [2023-09-05 08:00:57,096] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:00:57,111] {logging_mixin.py:115} INFO - [2023-09-05 08:00:57,109] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:00:57,112] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:00:57,136] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.048 seconds
+[2023-09-05 08:01:27,466] {processor.py:153} INFO - Started process (PID=162) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:01:27,468] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:01:27,469] {logging_mixin.py:115} INFO - [2023-09-05 08:01:27,469] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:01:27,483] {logging_mixin.py:115} INFO - [2023-09-05 08:01:27,482] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:01:27,484] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:01:27,504] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.045 seconds
+[2023-09-05 08:01:57,991] {processor.py:153} INFO - Started process (PID=225) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:01:57,992] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:01:57,993] {logging_mixin.py:115} INFO - [2023-09-05 08:01:57,993] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:01:58,004] {logging_mixin.py:115} INFO - [2023-09-05 08:01:58,003] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:01:58,005] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:01:58,022] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.033 seconds
+[2023-09-05 08:02:28,403] {processor.py:153} INFO - Started process (PID=279) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:02:28,406] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:02:28,408] {logging_mixin.py:115} INFO - [2023-09-05 08:02:28,407] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:02:28,419] {logging_mixin.py:115} INFO - [2023-09-05 08:02:28,418] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:02:28,420] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:02:28,441] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.044 seconds
+[2023-09-05 08:02:58,661] {processor.py:153} INFO - Started process (PID=342) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:02:58,665] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:02:58,666] {logging_mixin.py:115} INFO - [2023-09-05 08:02:58,666] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:02:58,681] {logging_mixin.py:115} INFO - [2023-09-05 08:02:58,679] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:02:58,682] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:02:58,703] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.050 seconds
+[2023-09-05 08:03:28,885] {processor.py:153} INFO - Started process (PID=405) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:03:28,887] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:03:28,888] {logging_mixin.py:115} INFO - [2023-09-05 08:03:28,888] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:03:28,905] {logging_mixin.py:115} INFO - [2023-09-05 08:03:28,903] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:03:28,906] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:03:28,928] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.049 seconds
+[2023-09-05 08:03:59,298] {processor.py:153} INFO - Started process (PID=468) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:03:59,300] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:03:59,301] {logging_mixin.py:115} INFO - [2023-09-05 08:03:59,301] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:03:59,310] {logging_mixin.py:115} INFO - [2023-09-05 08:03:59,309] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:03:59,311] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:03:59,330] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.035 seconds
+[2023-09-05 08:04:30,010] {processor.py:153} INFO - Started process (PID=531) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:04:30,011] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:04:30,011] {logging_mixin.py:115} INFO - [2023-09-05 08:04:30,011] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:04:30,021] {logging_mixin.py:115} INFO - [2023-09-05 08:04:30,020] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:04:30,022] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:04:30,041] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.034 seconds
+[2023-09-05 08:05:00,277] {processor.py:153} INFO - Started process (PID=586) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:05:00,278] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:05:00,279] {logging_mixin.py:115} INFO - [2023-09-05 08:05:00,279] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:05:00,294] {logging_mixin.py:115} INFO - [2023-09-05 08:05:00,292] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:05:00,295] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:05:00,319] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.048 seconds
+[2023-09-05 08:05:30,435] {processor.py:153} INFO - Started process (PID=649) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:05:30,437] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:05:30,438] {logging_mixin.py:115} INFO - [2023-09-05 08:05:30,438] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:05:30,452] {logging_mixin.py:115} INFO - [2023-09-05 08:05:30,450] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:05:30,453] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:05:30,476] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.046 seconds
+[2023-09-05 08:06:01,124] {processor.py:153} INFO - Started process (PID=715) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:06:01,126] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:06:01,128] {logging_mixin.py:115} INFO - [2023-09-05 08:06:01,128] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:06:01,144] {logging_mixin.py:115} INFO - [2023-09-05 08:06:01,142] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:06:01,145] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:06:01,166] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.050 seconds
+[2023-09-05 08:06:31,992] {processor.py:153} INFO - Started process (PID=778) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:06:31,995] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:06:31,996] {logging_mixin.py:115} INFO - [2023-09-05 08:06:31,996] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:06:32,013] {logging_mixin.py:115} INFO - [2023-09-05 08:06:32,011] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:06:32,014] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:06:32,040] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.054 seconds
+[2023-09-05 08:07:02,478] {processor.py:153} INFO - Started process (PID=841) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:07:02,480] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:07:02,481] {logging_mixin.py:115} INFO - [2023-09-05 08:07:02,481] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:07:02,495] {logging_mixin.py:115} INFO - [2023-09-05 08:07:02,493] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:07:02,495] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:07:02,519] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.044 seconds
+[2023-09-05 08:07:33,119] {processor.py:153} INFO - Started process (PID=895) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:07:33,120] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:07:33,121] {logging_mixin.py:115} INFO - [2023-09-05 08:07:33,121] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:07:33,130] {logging_mixin.py:115} INFO - [2023-09-05 08:07:33,129] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:07:33,131] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:07:33,151] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.035 seconds
+[2023-09-05 08:08:04,067] {processor.py:153} INFO - Started process (PID=958) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:08:04,068] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:08:04,069] {logging_mixin.py:115} INFO - [2023-09-05 08:08:04,069] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:08:04,077] {logging_mixin.py:115} INFO - [2023-09-05 08:08:04,076] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:08:04,079] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:08:04,098] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.035 seconds
+[2023-09-05 08:08:34,701] {processor.py:153} INFO - Started process (PID=1022) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:08:34,702] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:08:34,703] {logging_mixin.py:115} INFO - [2023-09-05 08:08:34,703] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:08:34,711] {logging_mixin.py:115} INFO - [2023-09-05 08:08:34,710] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:08:34,712] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:08:34,730] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.032 seconds
+[2023-09-05 08:09:05,297] {processor.py:153} INFO - Started process (PID=1085) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:09:05,300] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:09:05,302] {logging_mixin.py:115} INFO - [2023-09-05 08:09:05,302] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:09:05,314] {logging_mixin.py:115} INFO - [2023-09-05 08:09:05,313] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:09:05,315] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:09:05,337] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.047 seconds
+[2023-09-05 08:09:36,237] {processor.py:153} INFO - Started process (PID=1148) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:09:36,238] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:09:36,239] {logging_mixin.py:115} INFO - [2023-09-05 08:09:36,239] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:09:36,248] {logging_mixin.py:115} INFO - [2023-09-05 08:09:36,247] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:09:36,249] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:09:36,270] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.038 seconds
+[2023-09-05 08:10:06,976] {processor.py:153} INFO - Started process (PID=1203) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:10:06,979] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:10:06,980] {logging_mixin.py:115} INFO - [2023-09-05 08:10:06,980] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:10:06,992] {logging_mixin.py:115} INFO - [2023-09-05 08:10:06,991] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:10:06,993] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:10:07,014] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.043 seconds
+[2023-09-05 08:10:37,812] {processor.py:153} INFO - Started process (PID=1267) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:10:37,815] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:10:37,816] {logging_mixin.py:115} INFO - [2023-09-05 08:10:37,816] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:10:37,830] {logging_mixin.py:115} INFO - [2023-09-05 08:10:37,828] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:10:37,831] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:10:37,851] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.046 seconds
+[2023-09-05 08:11:08,657] {processor.py:153} INFO - Started process (PID=1329) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:11:08,659] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:11:08,660] {logging_mixin.py:115} INFO - [2023-09-05 08:11:08,660] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:11:08,669] {logging_mixin.py:115} INFO - [2023-09-05 08:11:08,668] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:11:08,670] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:11:08,688] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.034 seconds
+[2023-09-05 08:11:39,280] {processor.py:153} INFO - Started process (PID=1391) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:11:39,283] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:11:39,285] {logging_mixin.py:115} INFO - [2023-09-05 08:11:39,284] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:11:39,301] {logging_mixin.py:115} INFO - [2023-09-05 08:11:39,299] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:11:39,302] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:11:39,321] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.048 seconds
+[2023-09-05 08:12:09,930] {processor.py:153} INFO - Started process (PID=1455) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:12:09,933] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:12:09,934] {logging_mixin.py:115} INFO - [2023-09-05 08:12:09,934] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:12:09,950] {logging_mixin.py:115} INFO - [2023-09-05 08:12:09,948] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:12:09,951] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:12:09,978] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.054 seconds
+[2023-09-05 08:12:40,716] {processor.py:153} INFO - Started process (PID=1516) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:12:40,718] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:12:40,719] {logging_mixin.py:115} INFO - [2023-09-05 08:12:40,719] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:12:40,733] {logging_mixin.py:115} INFO - [2023-09-05 08:12:40,731] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:12:40,734] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:12:40,757] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.046 seconds
+[2023-09-05 08:13:11,494] {processor.py:153} INFO - Started process (PID=1569) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:13:11,496] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:13:11,497] {logging_mixin.py:115} INFO - [2023-09-05 08:13:11,496] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:13:11,507] {logging_mixin.py:115} INFO - [2023-09-05 08:13:11,505] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:13:11,507] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:13:11,526] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.036 seconds
+[2023-09-05 08:13:42,150] {processor.py:153} INFO - Started process (PID=1632) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:13:42,152] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:13:42,153] {logging_mixin.py:115} INFO - [2023-09-05 08:13:42,153] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:13:42,163] {logging_mixin.py:115} INFO - [2023-09-05 08:13:42,161] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:13:42,164] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:13:42,185] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.038 seconds
+[2023-09-05 08:14:12,705] {processor.py:153} INFO - Started process (PID=1696) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:14:12,707] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:14:12,708] {logging_mixin.py:115} INFO - [2023-09-05 08:14:12,708] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:14:12,721] {logging_mixin.py:115} INFO - [2023-09-05 08:14:12,719] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:14:12,722] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:14:12,742] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.042 seconds
+[2023-09-05 08:14:43,450] {processor.py:153} INFO - Started process (PID=1758) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:14:43,453] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:14:43,454] {logging_mixin.py:115} INFO - [2023-09-05 08:14:43,454] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:14:43,467] {logging_mixin.py:115} INFO - [2023-09-05 08:14:43,465] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:14:43,468] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:14:43,493] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.048 seconds
+[2023-09-05 08:15:14,215] {processor.py:153} INFO - Started process (PID=1821) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:15:14,218] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:15:14,220] {logging_mixin.py:115} INFO - [2023-09-05 08:15:14,220] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:15:14,234] {logging_mixin.py:115} INFO - [2023-09-05 08:15:14,232] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:15:14,234] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:15:14,255] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.048 seconds
+[2023-09-05 08:15:44,870] {processor.py:153} INFO - Started process (PID=1882) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:15:44,872] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:15:44,873] {logging_mixin.py:115} INFO - [2023-09-05 08:15:44,873] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:15:44,881] {logging_mixin.py:115} INFO - [2023-09-05 08:15:44,880] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:15:44,882] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:15:44,900] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.032 seconds
+[2023-09-05 08:16:15,702] {processor.py:153} INFO - Started process (PID=1938) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:16:15,704] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:16:15,705] {logging_mixin.py:115} INFO - [2023-09-05 08:16:15,705] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:16:15,718] {logging_mixin.py:115} INFO - [2023-09-05 08:16:15,716] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:16:15,719] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:16:15,742] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.044 seconds
+[2023-09-05 08:16:46,574] {processor.py:153} INFO - Started process (PID=2001) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:16:46,577] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:16:46,578] {logging_mixin.py:115} INFO - [2023-09-05 08:16:46,578] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:16:46,596] {logging_mixin.py:115} INFO - [2023-09-05 08:16:46,593] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:16:46,597] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:16:46,622] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.055 seconds
+[2023-09-05 08:17:17,333] {processor.py:153} INFO - Started process (PID=2064) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:17:17,336] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:17:17,337] {logging_mixin.py:115} INFO - [2023-09-05 08:17:17,337] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:17:17,353] {logging_mixin.py:115} INFO - [2023-09-05 08:17:17,351] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:17:17,354] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:17:17,377] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.051 seconds
+[2023-09-05 08:17:48,082] {processor.py:153} INFO - Started process (PID=2127) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:17:48,084] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:17:48,086] {logging_mixin.py:115} INFO - [2023-09-05 08:17:48,086] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:17:48,104] {logging_mixin.py:115} INFO - [2023-09-05 08:17:48,101] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:17:48,104] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:17:48,126] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.051 seconds
+[2023-09-05 08:18:18,843] {processor.py:153} INFO - Started process (PID=2191) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:18:18,846] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:18:18,848] {logging_mixin.py:115} INFO - [2023-09-05 08:18:18,847] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:18:18,859] {logging_mixin.py:115} INFO - [2023-09-05 08:18:18,858] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:18:18,860] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:18:18,879] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.043 seconds
+[2023-09-05 08:18:49,669] {processor.py:153} INFO - Started process (PID=2245) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:18:49,672] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:18:49,674] {logging_mixin.py:115} INFO - [2023-09-05 08:18:49,674] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:18:49,688] {logging_mixin.py:115} INFO - [2023-09-05 08:18:49,686] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:18:49,688] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:18:49,708] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.045 seconds
+[2023-09-05 08:19:20,555] {processor.py:153} INFO - Started process (PID=2308) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:19:20,558] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:19:20,559] {logging_mixin.py:115} INFO - [2023-09-05 08:19:20,559] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:19:20,576] {logging_mixin.py:115} INFO - [2023-09-05 08:19:20,573] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:19:20,577] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:19:20,597] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.048 seconds
+[2023-09-05 08:19:51,281] {processor.py:153} INFO - Started process (PID=2371) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:19:51,283] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:19:51,284] {logging_mixin.py:115} INFO - [2023-09-05 08:19:51,284] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:19:51,298] {logging_mixin.py:115} INFO - [2023-09-05 08:19:51,296] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:19:51,300] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:19:51,333] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.057 seconds
+[2023-09-05 08:20:22,049] {processor.py:153} INFO - Started process (PID=2434) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:20:22,052] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:20:22,054] {logging_mixin.py:115} INFO - [2023-09-05 08:20:22,054] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:20:22,069] {logging_mixin.py:115} INFO - [2023-09-05 08:20:22,066] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:20:22,070] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:20:22,090] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.046 seconds
+[2023-09-05 08:20:53,005] {processor.py:153} INFO - Started process (PID=2497) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:20:53,008] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:20:53,010] {logging_mixin.py:115} INFO - [2023-09-05 08:20:53,009] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:20:53,043] {logging_mixin.py:115} INFO - [2023-09-05 08:20:53,032] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:20:53,045] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:20:53,067] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.070 seconds
+[2023-09-05 08:21:23,852] {processor.py:153} INFO - Started process (PID=2559) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:21:23,854] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:21:23,855] {logging_mixin.py:115} INFO - [2023-09-05 08:21:23,854] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:21:23,868] {logging_mixin.py:115} INFO - [2023-09-05 08:21:23,863] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:21:23,868] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:21:23,887] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.038 seconds
+[2023-09-05 08:21:54,899] {processor.py:153} INFO - Started process (PID=2613) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:21:54,902] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:21:54,904] {logging_mixin.py:115} INFO - [2023-09-05 08:21:54,904] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:21:54,923] {logging_mixin.py:115} INFO - [2023-09-05 08:21:54,917] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:21:54,924] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:21:54,946] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.055 seconds
+[2023-09-05 08:22:25,842] {processor.py:153} INFO - Started process (PID=2676) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:22:25,844] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:22:25,845] {logging_mixin.py:115} INFO - [2023-09-05 08:22:25,845] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:22:25,863] {logging_mixin.py:115} INFO - [2023-09-05 08:22:25,858] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:22:25,865] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:22:25,886] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.048 seconds
+[2023-09-05 08:22:56,833] {processor.py:153} INFO - Started process (PID=2740) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:22:56,836] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:22:56,838] {logging_mixin.py:115} INFO - [2023-09-05 08:22:56,838] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:22:56,861] {logging_mixin.py:115} INFO - [2023-09-05 08:22:56,853] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:22:56,862] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:22:56,884] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.060 seconds
+[2023-09-05 08:23:27,044] {processor.py:153} INFO - Started process (PID=2803) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:23:27,047] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:23:27,048] {logging_mixin.py:115} INFO - [2023-09-05 08:23:27,048] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:23:27,066] {logging_mixin.py:115} INFO - [2023-09-05 08:23:27,061] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:23:27,066] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:23:27,086] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.049 seconds
+[2023-09-05 08:23:57,980] {processor.py:153} INFO - Started process (PID=2866) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:23:57,981] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:23:57,982] {logging_mixin.py:115} INFO - [2023-09-05 08:23:57,982] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:23:57,993] {logging_mixin.py:115} INFO - [2023-09-05 08:23:57,990] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:23:57,994] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:23:58,011] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.034 seconds
+[2023-09-05 08:24:28,862] {processor.py:153} INFO - Started process (PID=2929) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:24:28,863] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:24:28,864] {logging_mixin.py:115} INFO - [2023-09-05 08:24:28,864] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:24:28,891] {logging_mixin.py:115} INFO - [2023-09-05 08:24:28,880] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:24:28,892] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:24:28,919] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.062 seconds
+[2023-09-05 08:24:59,183] {processor.py:153} INFO - Started process (PID=2984) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:24:59,185] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:24:59,186] {logging_mixin.py:115} INFO - [2023-09-05 08:24:59,186] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:24:59,205] {logging_mixin.py:115} INFO - [2023-09-05 08:24:59,199] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:24:59,205] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:24:59,225] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.048 seconds
+[2023-09-05 08:25:29,298] {processor.py:153} INFO - Started process (PID=3047) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:25:29,299] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:25:29,300] {logging_mixin.py:115} INFO - [2023-09-05 08:25:29,300] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:25:29,312] {logging_mixin.py:115} INFO - [2023-09-05 08:25:29,311] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:25:29,313] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:25:29,334] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.041 seconds
+[2023-09-05 08:25:59,411] {processor.py:153} INFO - Started process (PID=3110) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:25:59,413] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:25:59,414] {logging_mixin.py:115} INFO - [2023-09-05 08:25:59,413] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:25:59,423] {logging_mixin.py:115} INFO - [2023-09-05 08:25:59,422] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:25:59,424] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:25:59,444] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.036 seconds
+[2023-09-05 08:26:29,709] {processor.py:153} INFO - Started process (PID=3173) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:26:29,711] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:26:29,712] {logging_mixin.py:115} INFO - [2023-09-05 08:26:29,712] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:26:29,727] {logging_mixin.py:115} INFO - [2023-09-05 08:26:29,725] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:26:29,727] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:26:29,752] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.051 seconds
+[2023-09-05 08:26:59,929] {processor.py:153} INFO - Started process (PID=3227) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:26:59,932] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:26:59,934] {logging_mixin.py:115} INFO - [2023-09-05 08:26:59,934] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:26:59,947] {logging_mixin.py:115} INFO - [2023-09-05 08:26:59,946] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:26:59,948] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:26:59,969] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.047 seconds
+[2023-09-05 08:27:30,149] {processor.py:153} INFO - Started process (PID=3290) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:27:30,150] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:27:30,151] {logging_mixin.py:115} INFO - [2023-09-05 08:27:30,151] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:27:30,161] {logging_mixin.py:115} INFO - [2023-09-05 08:27:30,160] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:27:30,162] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:27:30,183] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.038 seconds
+[2023-09-05 08:28:00,263] {processor.py:153} INFO - Started process (PID=3353) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:28:00,264] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:28:00,265] {logging_mixin.py:115} INFO - [2023-09-05 08:28:00,265] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:28:00,273] {logging_mixin.py:115} INFO - [2023-09-05 08:28:00,272] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:28:00,273] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:28:00,291] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.031 seconds
+[2023-09-05 08:28:31,103] {processor.py:153} INFO - Started process (PID=3416) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:28:31,105] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:28:31,107] {logging_mixin.py:115} INFO - [2023-09-05 08:28:31,107] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:28:31,121] {logging_mixin.py:115} INFO - [2023-09-05 08:28:31,119] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:28:31,121] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:28:31,145] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.050 seconds
+[2023-09-05 08:29:02,055] {processor.py:153} INFO - Started process (PID=3478) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:29:02,058] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:29:02,060] {logging_mixin.py:115} INFO - [2023-09-05 08:29:02,060] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:29:02,074] {logging_mixin.py:115} INFO - [2023-09-05 08:29:02,073] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:29:02,075] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:29:02,096] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.048 seconds
+[2023-09-05 08:29:32,143] {processor.py:153} INFO - Started process (PID=3532) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:29:32,143] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:29:32,144] {logging_mixin.py:115} INFO - [2023-09-05 08:29:32,144] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:29:32,153] {logging_mixin.py:115} INFO - [2023-09-05 08:29:32,151] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:29:32,153] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:29:32,173] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.033 seconds
+[2023-09-05 08:30:02,309] {processor.py:153} INFO - Started process (PID=3595) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:30:02,310] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:30:02,313] {logging_mixin.py:115} INFO - [2023-09-05 08:30:02,312] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:30:02,329] {logging_mixin.py:115} INFO - [2023-09-05 08:30:02,327] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:30:02,330] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:30:02,353] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.049 seconds
+[2023-09-05 08:30:32,522] {processor.py:153} INFO - Started process (PID=3659) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:30:32,525] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:30:32,526] {logging_mixin.py:115} INFO - [2023-09-05 08:30:32,526] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:30:32,537] {logging_mixin.py:115} INFO - [2023-09-05 08:30:32,536] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:30:32,539] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:30:32,562] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.045 seconds
+[2023-09-05 08:31:02,672] {processor.py:153} INFO - Started process (PID=3721) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:31:02,675] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:31:02,677] {logging_mixin.py:115} INFO - [2023-09-05 08:31:02,677] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:31:02,693] {logging_mixin.py:115} INFO - [2023-09-05 08:31:02,690] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:31:02,695] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:31:02,720] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.055 seconds
+[2023-09-05 08:31:32,935] {processor.py:153} INFO - Started process (PID=3775) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:31:32,938] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:31:32,940] {logging_mixin.py:115} INFO - [2023-09-05 08:31:32,940] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:31:32,956] {logging_mixin.py:115} INFO - [2023-09-05 08:31:32,954] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:31:32,956] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:31:32,977] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.049 seconds
+[2023-09-05 08:32:03,185] {processor.py:153} INFO - Started process (PID=3839) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:32:03,188] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:32:03,190] {logging_mixin.py:115} INFO - [2023-09-05 08:32:03,190] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:32:03,203] {logging_mixin.py:115} INFO - [2023-09-05 08:32:03,202] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:32:03,204] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:32:03,225] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.048 seconds
+[2023-09-05 08:32:34,203] {processor.py:153} INFO - Started process (PID=3901) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:32:34,205] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:32:34,206] {logging_mixin.py:115} INFO - [2023-09-05 08:32:34,206] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:32:34,217] {logging_mixin.py:115} INFO - [2023-09-05 08:32:34,215] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:32:34,217] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:32:34,238] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.039 seconds
+[2023-09-05 08:33:04,399] {processor.py:153} INFO - Started process (PID=3963) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:33:04,400] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:33:04,401] {logging_mixin.py:115} INFO - [2023-09-05 08:33:04,401] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:33:04,410] {logging_mixin.py:115} INFO - [2023-09-05 08:33:04,409] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:33:04,411] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:33:04,430] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.035 seconds
+[2023-09-05 08:33:34,483] {processor.py:153} INFO - Started process (PID=4025) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:33:34,485] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:33:34,486] {logging_mixin.py:115} INFO - [2023-09-05 08:33:34,486] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:33:34,498] {logging_mixin.py:115} INFO - [2023-09-05 08:33:34,496] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:33:34,499] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:33:34,520] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.042 seconds
+[2023-09-05 08:34:04,918] {processor.py:153} INFO - Started process (PID=4079) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:34:04,921] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:34:04,923] {logging_mixin.py:115} INFO - [2023-09-05 08:34:04,923] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:34:04,936] {logging_mixin.py:115} INFO - [2023-09-05 08:34:04,934] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:34:04,937] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:34:04,962] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.050 seconds
+[2023-09-05 08:34:35,855] {processor.py:153} INFO - Started process (PID=4142) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:34:35,856] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:34:35,858] {logging_mixin.py:115} INFO - [2023-09-05 08:34:35,858] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:34:35,875] {logging_mixin.py:115} INFO - [2023-09-05 08:34:35,872] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:34:35,875] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:34:35,900] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.052 seconds
+[2023-09-05 08:35:05,953] {processor.py:153} INFO - Started process (PID=4205) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:35:05,956] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:35:05,958] {logging_mixin.py:115} INFO - [2023-09-05 08:35:05,957] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:35:05,973] {logging_mixin.py:115} INFO - [2023-09-05 08:35:05,971] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:35:05,974] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:35:06,011] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.063 seconds
+[2023-09-05 08:35:36,242] {processor.py:153} INFO - Started process (PID=4269) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:35:36,245] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:35:36,246] {logging_mixin.py:115} INFO - [2023-09-05 08:35:36,246] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:35:36,260] {logging_mixin.py:115} INFO - [2023-09-05 08:35:36,258] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:35:36,260] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:35:36,281] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.044 seconds
+[2023-09-05 08:36:06,337] {processor.py:153} INFO - Started process (PID=4333) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:36:06,339] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:36:06,340] {logging_mixin.py:115} INFO - [2023-09-05 08:36:06,340] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:36:06,350] {logging_mixin.py:115} INFO - [2023-09-05 08:36:06,349] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:36:06,351] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:36:06,373] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.039 seconds
+[2023-09-05 08:36:36,549] {processor.py:153} INFO - Started process (PID=4387) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:36:36,554] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:36:36,555] {logging_mixin.py:115} INFO - [2023-09-05 08:36:36,555] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:36:36,569] {logging_mixin.py:115} INFO - [2023-09-05 08:36:36,567] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:36:36,570] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:36:36,591] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.050 seconds
+[2023-09-05 08:37:06,712] {processor.py:153} INFO - Started process (PID=4450) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:37:06,715] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:37:06,717] {logging_mixin.py:115} INFO - [2023-09-05 08:37:06,717] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:37:06,730] {logging_mixin.py:115} INFO - [2023-09-05 08:37:06,729] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:37:06,731] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:37:06,751] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.046 seconds
+[2023-09-05 08:37:36,974] {processor.py:153} INFO - Started process (PID=4513) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:37:36,977] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:37:36,978] {logging_mixin.py:115} INFO - [2023-09-05 08:37:36,978] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:37:36,993] {logging_mixin.py:115} INFO - [2023-09-05 08:37:36,992] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:37:36,994] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:37:37,015] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.048 seconds
+[2023-09-05 08:38:07,166] {processor.py:153} INFO - Started process (PID=4576) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:38:07,169] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:38:07,171] {logging_mixin.py:115} INFO - [2023-09-05 08:38:07,170] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:38:07,186] {logging_mixin.py:115} INFO - [2023-09-05 08:38:07,184] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:38:07,187] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:38:07,214] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.057 seconds
+[2023-09-05 08:38:37,408] {processor.py:153} INFO - Started process (PID=4630) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:38:37,411] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:38:37,413] {logging_mixin.py:115} INFO - [2023-09-05 08:38:37,412] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:38:37,430] {logging_mixin.py:115} INFO - [2023-09-05 08:38:37,428] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:38:37,431] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:38:37,452] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.051 seconds
+[2023-09-05 08:39:07,584] {processor.py:153} INFO - Started process (PID=4693) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:39:07,586] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:39:07,588] {logging_mixin.py:115} INFO - [2023-09-05 08:39:07,588] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:39:07,600] {logging_mixin.py:115} INFO - [2023-09-05 08:39:07,599] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:39:07,601] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:39:07,623] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.045 seconds
+[2023-09-05 08:39:37,841] {processor.py:153} INFO - Started process (PID=4755) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:39:37,843] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:39:37,844] {logging_mixin.py:115} INFO - [2023-09-05 08:39:37,844] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:39:37,867] {logging_mixin.py:115} INFO - [2023-09-05 08:39:37,866] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:39:37,869] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:39:37,894] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.058 seconds
+[2023-09-05 08:40:08,164] {processor.py:153} INFO - Started process (PID=4819) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:40:08,167] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:40:08,168] {logging_mixin.py:115} INFO - [2023-09-05 08:40:08,168] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:40:08,185] {logging_mixin.py:115} INFO - [2023-09-05 08:40:08,184] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:40:08,186] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:40:08,210] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.055 seconds
+[2023-09-05 08:40:38,404] {processor.py:153} INFO - Started process (PID=4882) to work on /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:40:38,409] {processor.py:641} INFO - Processing file /opt/airflow/dags/transform_and_analysis.py for tasks to queue
+[2023-09-05 08:40:38,410] {logging_mixin.py:115} INFO - [2023-09-05 08:40:38,410] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:40:38,419] {logging_mixin.py:115} INFO - [2023-09-05 08:40:38,418] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/transform_and_analysis.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform_and_analysis.py", line 22, in <module>
+    **os.environ
+NameError: name 'os' is not defined
+[2023-09-05 08:40:38,420] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/transform_and_analysis.py
+[2023-09-05 08:40:38,438] {processor.py:161} INFO - Processing /opt/airflow/dags/transform_and_analysis.py took 0.037 seconds

@@ -1,0 +1,13 @@
+dbt_airflow_project:
+  outputs:
+    dev:
+      account: qn77538.ap-southeast-1
+      database: demo_dbt
+      password: "{{ env_var('dbt_password') }}"
+      user: "{{ env_var('dbt_user') }}"
+      role: dbt_dev_role
+      schema: public
+      threads: 200
+      type: snowflake
+      warehouse: dbt_dev_wh
+  target: dev
